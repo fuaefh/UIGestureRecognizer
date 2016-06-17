@@ -1,0 +1,6 @@
+
+
+
+target 'UIGestureRecognizer'  do
+end
+
